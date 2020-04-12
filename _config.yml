@@ -6,7 +6,7 @@ picture: assets/images/profile.jpg
 resume: true
 resume-external: true
 resume-url: 'https://cv.kunalbotla.com'
-url: 'https://kunalbotla.com/indigo'
+url: 'https://new.kunalbotla.com'
 permalink: '/:title/'
 disqus:
   shortname: mydisqus
