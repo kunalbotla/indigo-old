@@ -18,9 +18,7 @@ email: kunal@kunabotla.com
 authors:
   kunalbotla:
     name: Kunal Botla
-    bio: >-
-      Student @ Lexington HS (MA) ('2023). Swift developer. LexDebate member
-      (PF). Former Student @ Acera School ('2019).
+    bio:
     external-image: false
     picture: assets/images/profile.jpg
     twitter: kunalbotla

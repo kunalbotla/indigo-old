@@ -1,14 +1,14 @@
 ---
-title: Acera 360˚ Video Tour
+title: Acera 360˚ Video Tour Blog
 layout: post
 date: '2017-06-05 00:00:00'
-tag: Acera School
+tag: Acera
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
-projects: true
 hidden: false
-description: My 2016-17 Acera School Independent Research Project.
-category: project
+description: This is a simple and minimalist template for Jekyll for those who likes
+  to eat noodles.
+category: blog
 author: kunalbotla
 ---
 
